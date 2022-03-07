@@ -14,3 +14,10 @@
 
 ## 删除线
 ![image](https://user-images.githubusercontent.com/71924941/157033870-345dc6a7-7a12-4bb8-8b7d-ae0df5641fab.png)
+
+## 下划线
+![image](https://user-images.githubusercontent.com/71924941/157034052-97e9d466-5384-4e5e-8a65-7e9c5f44be26.png)
+
+# markdown列表
+![image](https://user-images.githubusercontent.com/71924941/157034352-8fada64e-d46c-4cd8-b001-486def81783e.png)
+![image](https://user-images.githubusercontent.com/71924941/157034407-bfe6ed95-0e2b-4c13-847b-622ccf3931a4.png)
